@@ -13,7 +13,7 @@ export default {
       },
       backgroundImage: {
         stars: "url('/bg-stars.svg')",
-        hills: "url('pattern-hills.svg')",
+        hills: "url('/pattern-hills.svg')",
       },
     },
   },
