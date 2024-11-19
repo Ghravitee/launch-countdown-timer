@@ -26,4 +26,6 @@
 
 .box {
   @apply shadow-[rgba(25,26,36,1)_0px_10px_0px,rgba(0,0,0,0.22)_0px_10px_10px];
+  color: #211a29;
+  color: #1a1823;
 }
