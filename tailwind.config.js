@@ -12,8 +12,8 @@ export default {
         "Very-Dark-Mostly-Black-Blue": "hsl(234, 17%, 12%)",
       },
       backgroundImage: {
-        stars: "url('./src/assets/bg-stars.svg')",
-        hills: "url('./src/assets/pattern-hills.svg')",
+        stars: "url('/bg-stars.svg')",
+        hills: "url('pattern-hills.svg')",
       },
     },
   },
