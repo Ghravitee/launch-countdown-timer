@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --Grayish-Blue: hsl(237, 18%, 59%);
+  --Soft-Red: hsl(345, 95%, 68%);
+
+  --Dark-Desaturated-Blue: hsl(236, 21%, 26%);
+  --Very-Dark-Blue: hsl(235, 15%, 14%);
+  --Very-Dark-Mostly-Black-Blue: rgb(25, 26, 36);
+  font-family: "Red Hat Text", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* main {
+  background-image: url("./assets/bg-stars.svg");
+  background-size: contain;
+} */
+
+/* .box {
+  @apply shadow-[rgba(251,96,135,1)_0px_25px_10px_-12px];
+} */
+
+.box {
+  @apply shadow-[rgba(25,26,36,1)_0px_10px_0px,rgba(0,0,0,0.22)_0px_10px_10px];
+}
